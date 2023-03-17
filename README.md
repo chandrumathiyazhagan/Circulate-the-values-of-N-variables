@@ -29,7 +29,8 @@ def circulate():
     print("After circulating the values are:",result)
 ```
 ## Output:
-![aaaaq](https://user-images.githubusercontent.com/119393023/225368036-4707199d-e6a8-4c78-bee9-6a889f272ea0.png)
+![2222](https://user-images.githubusercontent.com/119393023/225824450-21f610ba-138d-44ad-aefc-c62cf4eeab80.png)
+
 
 
 ## Result:
